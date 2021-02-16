@@ -7,7 +7,7 @@
 <p align="center"> Blog com painel Adminstrativo</p>
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 GuiaPress</a>
+    <a href="#">🔗 GuiaPress</a>
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
