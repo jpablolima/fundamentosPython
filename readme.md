@@ -6,10 +6,10 @@
 <!-- ## Descrição do Projeto -->
 <p align="center"> Blog com painel Adminstrativo</p>
 
-<!-- <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 GuiaPress</a>
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p> -->
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 
 ![Badge](https://img.shields.io/badge/Blog-Guiapress-%237159c1?style=for-the-badge&logo=ghost)
