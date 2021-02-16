@@ -1,9 +1,9 @@
-# Nome do Projeto 
+<!-- # GuiaPress -->
 <h1 align="center">GuiaPress</h1>   
 
 
 
-## Descrição do Projeto
+<!-- ## Descrição do Projeto -->
 <p align="center"> Blog com painel Adminstrativo</p>
 
 <!-- <h1 align="center">
